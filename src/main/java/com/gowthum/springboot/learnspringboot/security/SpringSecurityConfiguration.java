@@ -15,12 +15,7 @@ import org.springframework.security.web.SecurityFilterChain;
 
 @Configuration
 public class SpringSecurityConfiguration {
-	// LDAP or Database
-	// In Memory
-
-	// InMemoryUserDetailsManager
-	// InMemoryUserDetailsManager(UserDetails... users)
-
+	
 	@Bean
 	public InMemoryUserDetailsManager createUserDetailsManager() {
 
