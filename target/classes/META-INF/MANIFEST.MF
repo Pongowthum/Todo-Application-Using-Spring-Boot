@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: learnspringboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 851148
+Implementation-Vendor-Id: com.gowthum.springboot
+Build-Jdk: 1.8.0_311
+Implementation-URL: https://spring.io/projects/spring-boot/learnspring
+ boot
+Created-By: Maven Integration for Eclipse
+
